@@ -1,4 +1,4 @@
-package dev.be.modulecommon.modulecommon.service;
+package dev.be.modulecommon.service;
 
 import org.springframework.stereotype.Service;
 

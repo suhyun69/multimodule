@@ -1,4 +1,4 @@
-package dev.be.modulecommon.modulecommon.enums;
+package dev.be.modulecommon.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

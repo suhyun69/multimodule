@@ -1,7 +1,7 @@
 package dev.be.moduleapi.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-import dev.be.modulecommon.modulecommon.enums.CodeEnum;
+import dev.be.modulecommon.enums.CodeEnum;
 import lombok.*;
 
 @Setter

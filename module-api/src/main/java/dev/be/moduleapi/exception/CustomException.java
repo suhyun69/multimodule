@@ -1,6 +1,6 @@
 package dev.be.moduleapi.exception;
 
-import dev.be.modulecommon.modulecommon.enums.CodeEnum;
+import dev.be.modulecommon.enums.CodeEnum;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
