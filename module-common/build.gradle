@@ -37,3 +37,5 @@ tasks.bootJar { enabled = false }
 tasks.jar { enabled = true }
 // ./gradlew clean :module-api:buildNeeded --stacktrace --info --refresh-dependencies -x test
 // ./gradlew clean
+
+// java -jar -Dspring.profiles.active=local module-api-0.0.1-SNAPSHOT.jar
